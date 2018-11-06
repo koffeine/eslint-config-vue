@@ -1,0 +1,27 @@
+{
+  "name": "eslint-config-koffeine-vue",
+  "version": "0.0.1",
+  "description": "Koffeine's ESLint shareable config for Vue.js",
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
+  "homepage": "https://github.com/koffeine/eslint-config-koffeine-vue",
+  "bugs": {
+    "url": "https://github.com/koffeine/eslint-config-koffeine-vue/issues"
+  },
+  "license": "MIT",
+  "author": "Kornél Horváth <kornel.horvath@me.com>",
+  "main": "config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koffeine/eslint-config-koffeine-vue.git"
+  },
+  "devDependencies": {
+    "eslint": "5.8.0",
+    "eslint-config-koffeine": "5.0.8"
+  },
+  "peerDependencies": {
+    "eslint-plugin-vue": "5.0.0-beta.3"
+  }
+}
