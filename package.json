@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-koffeine-vue",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Koffeine's ESLint shareable config for Vue.js",
   "keywords": [
     "eslint",
