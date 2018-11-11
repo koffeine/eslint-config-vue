@@ -11,7 +11,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 ### Changed
 
 - Updated eslint to 5.9.0
-- Updated eslint-config-koffeine to 5.0.9
+- Updated eslint-config-koffeine to 5.0.10
 - Renamed config.js to index.js
 
 ### Removed
