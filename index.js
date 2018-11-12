@@ -1,8 +1,4 @@
 module.exports = {
-	parser: 'vue-eslint-parser',
-	plugins: [
-		'vue'
-	],
 	rules: {
 		'vue/attribute-hyphenation': [ 'error', 'always' ],
 		'vue/attributes-order': [ 'error', { 'order': [

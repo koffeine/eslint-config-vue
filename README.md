@@ -51,6 +51,8 @@ modules.exports = {
 		'koffeine',
 		'koffeine-vue'
 	],
+	plugins: [ 'vue' ],
+	parser: 'vue-eslint-parser',
 	...
 };
 ```
@@ -62,6 +64,8 @@ Add the following to your .eslintrc.js file:
 ```js
 modules.exports = {
 	extends: 'koffeine-vue',
+	plugins: [ 'vue' ],
+	parser: 'vue-eslint-parser',
 	...
 };
 ```
