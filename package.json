@@ -22,6 +22,6 @@
     "eslint-config-koffeine": "5.0.10"
   },
   "peerDependencies": {
-    "eslint-plugin-vue": "5.0.0-beta.4"
+    "eslint-plugin-vue": "5.0.0-beta.5"
   }
 }
