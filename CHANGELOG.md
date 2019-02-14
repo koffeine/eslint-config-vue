@@ -8,6 +8,11 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+### Changed
+
+- Updated eslint-plugin-vue to 5.2.1
+- Reenabled 'vue/no-async-in-computed-properties' rule
+
 
 ## [4.0.0] - 2019-02-14
 

@@ -36,7 +36,7 @@ module.exports = {
 		'vue/multiline-html-element-content-newline': 'error',
 		'vue/mustache-interpolation-spacing': [ 'error', 'always' ],
 		'vue/name-property-casing': [ 'error', 'kebab-case' ],
-		// 'vue/no-async-in-computed-properties': 'error', // bugged as of 5.2.0
+		'vue/no-async-in-computed-properties': 'error',
 		// 'vue/no-boolean-default': 'off',
 		'vue/no-confusing-v-for-v-if': 'error',
 		'vue/no-dupe-keys': 'error',
