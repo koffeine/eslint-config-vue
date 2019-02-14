@@ -12,6 +12,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 - Updated eslint to 5.13.0
 - Updated eslint-config-koffeine to 7.0.2
+- Updated eslint-plugin-vue to 5.2.0
 
 
 ## [3.0.2] - 2019-01-07
