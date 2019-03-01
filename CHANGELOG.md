@@ -8,6 +8,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+### Changed
+
+- Disabled v-on-function-call rule
+
 
 ## [4.0.2] - 2019-02-19
 

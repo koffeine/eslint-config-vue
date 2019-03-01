@@ -139,7 +139,7 @@ module.exports = {
 		'vue/this-in-template': [ 'error', 'never' ],
 		'vue/use-v-on-exact': 'error',
 		'vue/v-bind-style': [ 'error', 'shorthand' ],
-		'vue/v-on-function-call': [ 'error', 'never' ],
+		// 'vue/v-on-function-call': 'off',
 		'vue/v-on-style': [ 'error', 'shorthand' ],
 		'vue/valid-template-root': 'error',
 		'vue/valid-v-bind': 'error',
