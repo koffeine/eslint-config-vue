@@ -18,8 +18,8 @@
     "url": "git+https://github.com/koffeine/eslint-config-koffeine-vue.git"
   },
   "devDependencies": {
-    "eslint": "5.15.2",
-    "eslint-config-koffeine": "7.0.7"
+    "eslint": "5.15.3",
+    "eslint-config-koffeine": "7.0.8"
   },
   "peerDependencies": {
     "eslint-plugin-vue": "5.2.2"
