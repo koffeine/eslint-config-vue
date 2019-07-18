@@ -19,7 +19,7 @@
   },
   "devDependencies": {
     "eslint": "6.0.1",
-    "eslint-config-koffeine": "8.0.1"
+    "eslint-config-koffeine": "8.0.2"
   },
   "peerDependencies": {
     "eslint-plugin-vue": "5.2.3"
