@@ -1,4 +1,5 @@
 module.exports = {
+	root: true,
 	extends: 'koffeine',
 	env: {
 		node: true
