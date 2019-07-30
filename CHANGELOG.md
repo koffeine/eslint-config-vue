@@ -16,6 +16,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 - Removed .npmignore in favor of files in package.json
 - Updated eslint to 6.1.0
 - Updated eslint-config-koffeine to 8.0.3
+- Fixed typos in README.md
 
 
 ## [5.0.0] - 2019-06-25

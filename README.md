@@ -46,7 +46,7 @@ __With [eslint-config-koffeine](https://www.npmjs.com/package/eslint-config-koff
 Add the following to your .eslintrc.js file:
 
 ```js
-modules.exports = {
+module.exports = {
 	extends: [
 		'koffeine',
 		'koffeine-vue'
@@ -62,7 +62,7 @@ __Standalone__
 Add the following to your .eslintrc.js file:
 
 ```js
-modules.exports = {
+module.exports = {
 	extends: 'koffeine-vue',
 	plugins: [ 'vue' ],
 	parser: 'vue-eslint-parser',
