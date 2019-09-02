@@ -13,8 +13,8 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 - Fixed an entry in CHANGELOG.md
 - Updated .eslintrc.js
 - Removed .npmignore in favor of files in package.json
-- Updated eslint to 6.1.0
-- Updated eslint-config-koffeine to 8.0.3
+- Updated eslint to 6.3.0
+- Updated eslint-config-koffeine to 10.0.0
 - Fixed typos in README.md
 - Removed years from license
 
