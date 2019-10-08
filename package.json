@@ -12,9 +12,7 @@
   },
   "license": "MIT",
   "author": "Kornél Horváth <kornel.horvath@me.com>",
-  "files": [
-    "index.js"
-  ],
+  "files": [],
   "main": "index.js",
   "repository": {
     "type": "git",

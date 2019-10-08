@@ -17,6 +17,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 - Updated eslint-config-koffeine to 12.0.0
 - Fixed typos in README.md
 - Removed years from license
+- package.json cleanup
 
 
 ## [5.0.0] - 2019-06-25
