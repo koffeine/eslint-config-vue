@@ -22,6 +22,7 @@ module.exports = {
 		'vue/comma-dangle': [ 'error', 'never' ],
 		'vue/comment-directive': 'error',
 		'vue/component-name-in-template-casing': [ 'error', 'kebab-case' ],
+		'vue/dot-location': [ 'error', 'property' ],
 		'vue/eqeqeq': [ 'error', 'smart' ],
 		// 'vue/html-closing-bracket-newline': 'off',
 		'vue/html-closing-bracket-spacing': [ 'error', { 'startTag': 'never', 'endTag': 'never', 'selfClosingTag': 'always' } ],
@@ -31,6 +32,7 @@ module.exports = {
 		'vue/html-self-closing': [ 'error', { 'html': { 'void': 'never', 'normal': 'never', 'component': 'never' }, 'svg': 'never', 'math': 'never' } ],
 		// 'vue/jsx-uses-vars': 'off',
 		'vue/key-spacing': [ 'error', { 'mode': 'minimum' } ],
+		'vue/keyword-spacing': [ 'error', { 'before': true, 'after': true } ],
 		'vue/match-component-file-name': 'error',
 		// 'vue/max-attributes-per-line': 'off',
 		'vue/multiline-html-element-content-newline': 'error',
@@ -39,8 +41,10 @@ module.exports = {
 		'vue/no-async-in-computed-properties': 'error',
 		// 'vue/no-boolean-default': 'off',
 		'vue/no-confusing-v-for-v-if': 'error',
+		'vue/no-deprecated-scope-attribute': 'error',
 		'vue/no-dupe-keys': 'error',
 		'vue/no-duplicate-attributes': [ 'error', { 'allowCoexistClass': true, 'allowCoexistStyle': true } ],
+		'vue/no-empty-pattern': 'error',
 		'vue/no-multi-spaces': 'error',
 		'vue/no-parsing-error': [ 'error', {
 			'abrupt-closing-of-empty-comment': true,
@@ -141,6 +145,7 @@ module.exports = {
 		'vue/v-bind-style': [ 'error', 'shorthand' ],
 		// 'vue/v-on-function-call': 'off',
 		'vue/v-on-style': [ 'error', 'shorthand' ],
+		'vue/v-slot-style': [ 'error', { 'atComponent': 'shorthand', 'default': 'shorthand', 'named': 'shorthand' } ],
 		'vue/valid-template-root': 'error',
 		'vue/valid-v-bind': 'error',
 		'vue/valid-v-cloak': 'error',
@@ -154,6 +159,7 @@ module.exports = {
 		'vue/valid-v-once': 'error',
 		'vue/valid-v-pre': 'error',
 		'vue/valid-v-show': 'error',
+		'vue/valid-v-slot': 'error',
 		'vue/valid-v-text': 'error'
 	}
 };

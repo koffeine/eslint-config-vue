@@ -18,6 +18,13 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 - Fixed typos in README.md
 - Removed years from license
 - package.json cleanup
+- Updated eslint-plugin-vue to 6.0.0
+- Enabled vue/no-empty-pattern rule
+- Enabled vue/dot-location rule
+- Enabled vue/keyword-spacing rule
+- Enabled vue/no-deprecated-scope-attribute rule
+- Enabled vue/valid-v-slot rule
+- Enabled vue/v-slot-style rule
 
 
 ## [5.0.0] - 2019-06-25
