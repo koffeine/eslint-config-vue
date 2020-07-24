@@ -8,11 +8,23 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+### Added
+
+- Enabled vue/no-reserved-component-names rule
+- Enabled vue/component-tags-order rule
+- Enabled vue/component-definition-name-casing rule
+- Enabled vue/valid-v-bind-sync rule
+- Enabled vue/no-deprecated-slot-attribute rule
+- Enabled vue/no-deprecated-slot-scope-attribute rule
+- Enabled vue/no-unsupported-features rule
+- Enabled vue/no-static-inline-styles rule
+- Enabled vue/no-irregular-whitespace rule
+
 ### Changed
 
 - Updated eslint to 6.8.0
 - Updated eslint-config-koffeine to 14.0.3
-- Updated eslint-plugin-vue to 6.0.2
+- Updated eslint-plugin-vue to 6.1.2
 - Set default values to options where they were missing:
 	- vue/html-indent
 	- vue/multiline-html-element-content-newline
@@ -28,6 +40,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 - Changed vue/html-self-closing rule to always expect self-closing components
 - Changed vue/html-closing-bracket-spacing rule to disallow spaces in self-closing tag
 - Changed vue/match-component-file-name rule to check .vue files and be case-sensitive
+- README.md cleanup
 
 ### Removed
 

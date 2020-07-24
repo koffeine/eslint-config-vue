@@ -27,37 +27,10 @@ npm info eslint-config-koffeine-vue peerDependencies
 For example:
 
 ```sh
-npm install eslint-plugin-vue@6.0.2 --save-dev --save-exact
+npm install eslint-plugin-vue@6.1.2 --save-dev --save-exact
 ```
 
 ## Usage
-
-If you already use other parser (e.g. `'parser': 'babel-eslint'`), please move it into `parserOptions`, so it doesn't collide with the parser used by this config:
-
-```diff
-- 'parser': 'babel-eslint',
-  'parserOptions': {
-+     'parser': 'babel-eslint'
-  }
-```
-
-__With [eslint-config-koffeine](https://www.npmjs.com/package/eslint-config-koffeine)__
-
-Add the following to your .eslintrc.js file:
-
-```js
-module.exports = {
-	extends: [
-		'koffeine',
-		'koffeine-vue'
-	],
-	plugins: [ 'vue' ],
-	parser: 'vue-eslint-parser',
-	...
-};
-```
-
-__Standalone__
 
 Add the following to your .eslintrc.js file:
 
