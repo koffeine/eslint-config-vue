@@ -13,6 +13,19 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 - Updated eslint to 6.8.0
 - Updated eslint-config-koffeine to 14.0.3
 - Updated eslint-plugin-vue to 6.0.2
+- Set default values to options where they were missing:
+	- vue/html-indent
+	- vue/multiline-html-element-content-newline
+	- vue/no-multi-spaces
+- Updated options with default values:
+	- vue/no-parsing-error
+	- vue/order-in-components
+- Updated options of wrapped ESLint rules to match those in eslint-config-koffeine:
+	- vue/camelcase
+
+### Removed
+
+- Removed deprecated vue/no-confusing-v-for-v-if rule
 
 
 ## [6.0.1] - 2019-11-14
