@@ -23,6 +23,6 @@
     "eslint-config-koffeine": "14.0.3"
   },
   "peerDependencies": {
-    "eslint-plugin-vue": "6.1.2"
+    "eslint-plugin-vue": "6.2.2"
   }
 }
