@@ -22,6 +22,12 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 	- vue/order-in-components
 - Updated options of wrapped ESLint rules to match those in eslint-config-koffeine:
 	- vue/camelcase
+- Changed casing to PascalCase:
+	- vue/component-name-in-template-casing
+	- vue/name-property-casing
+- Changed vue/html-self-closing rule to always expect self-closing components
+- Changed vue/html-closing-bracket-spacing rule to disallow spaces in self-closing tag
+- Changed vue/match-component-file-name rule to check .vue files and be case-sensitive
 
 ### Removed
 
