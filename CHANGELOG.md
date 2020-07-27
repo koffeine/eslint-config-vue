@@ -13,6 +13,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 - Updated eslint to 7.5.0
 - Updated eslint-config-koffeine to 15.0.0
 - Added test for deprecated/unused rules using eslint-find-rules
+- README.md badge cleanup
 
 
 ## [7.0.0] - 2020-07-24

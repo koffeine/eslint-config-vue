@@ -1,8 +1,8 @@
 # eslint-config-koffeine-vue
 
-[![npm version](https://img.shields.io/npm/v/eslint-config-koffeine-vue.svg)](https://www.npmjs.com/package/eslint-config-koffeine-vue)
-[![devDependency Status](https://david-dm.org/koffeine/eslint-config-koffeine-vue/dev-status.svg)](https://david-dm.org/koffeine/eslint-config-koffeine-vue?type=dev)
-[![peerDependency Status](https://david-dm.org/koffeine/eslint-config-koffeine-vue/peer-status.svg)](https://david-dm.org/koffeine/eslint-config-koffeine-vue?type=peer)
+[![npm](https://img.shields.io/npm/v/eslint-config-koffeine-vue)](https://www.npmjs.com/package/eslint-config-koffeine-vue)
+[![devDependencies Status](https://david-dm.org/koffeine/eslint-config-koffeine-vue/dev-status.svg)](https://david-dm.org/koffeine/eslint-config-koffeine-vue?type=dev)
+[![peerDependencies Status](https://david-dm.org/koffeine/eslint-config-koffeine-vue/peer-status.svg)](https://david-dm.org/koffeine/eslint-config-koffeine-vue?type=peer)
 
 Koffeine's ESLint shareable config for Vue.js
 
