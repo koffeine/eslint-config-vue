@@ -10,11 +10,11 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ### Changed
 
-- Updated eslint to 7.5.0
-- Updated eslint-config-koffeine to 15.0.0
-- Added test for deprecated/unused rules using eslint-find-rules
-- README.md badge cleanup
 - Renamed GitHub repository
+- Renamed package to @koffeine/eslint-config-vue
+- Updated eslint to 7.5.0
+- Updated @koffeine/eslint-config to 15.0.1
+- Added test for deprecated/unused rules using eslint-find-rules
 
 
 ## [7.0.0] - 2020-07-24

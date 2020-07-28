@@ -1,6 +1,6 @@
 module.exports = {
 	root: true,
-	extends: 'koffeine',
+	extends: '@koffeine',
 	env: {
 		node: true
 	},

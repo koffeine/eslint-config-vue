@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-koffeine-vue",
+  "name": "@koffeine/eslint-config-vue",
   "version": "7.0.0",
   "description": "Koffeine's ESLint shareable config for Vue.js",
   "keywords": [
@@ -22,8 +22,8 @@
     "test": "eslint-find-rules --deprecated --unused test.js --no-error --no-core"
   },
   "devDependencies": {
+    "@koffeine/eslint-config": "15.0.1",
     "eslint": "7.5.0",
-    "eslint-config-koffeine": "15.0.0",
     "eslint-find-rules": "3.6.0",
     "eslint-plugin-vue": "6.2.2"
   },
