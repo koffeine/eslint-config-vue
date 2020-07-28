@@ -1,8 +1,8 @@
-# eslint-config-koffeine-vue
+# eslint-config-vue
 
 [![npm](https://img.shields.io/npm/v/eslint-config-koffeine-vue)](https://www.npmjs.com/package/eslint-config-koffeine-vue)
-[![devDependencies Status](https://david-dm.org/koffeine/eslint-config-koffeine-vue/dev-status.svg)](https://david-dm.org/koffeine/eslint-config-koffeine-vue?type=dev)
-[![peerDependencies Status](https://david-dm.org/koffeine/eslint-config-koffeine-vue/peer-status.svg)](https://david-dm.org/koffeine/eslint-config-koffeine-vue?type=peer)
+[![devDependencies Status](https://david-dm.org/koffeine/eslint-config-vue/dev-status.svg)](https://david-dm.org/koffeine/eslint-config-vue?type=dev)
+[![peerDependencies Status](https://david-dm.org/koffeine/eslint-config-vue/peer-status.svg)](https://david-dm.org/koffeine/eslint-config-vue?type=peer)
 
 Koffeine's ESLint shareable config for Vue.js
 
@@ -47,4 +47,4 @@ module.exports = {
 
 Copyright © Kornél Horváth
 
-Licensed under the [MIT License](https://raw.githubusercontent.com/koffeine/eslint-config-koffeine-vue/master/LICENSE).
+Licensed under the [MIT License](https://raw.githubusercontent.com/koffeine/eslint-config-vue/master/LICENSE).
