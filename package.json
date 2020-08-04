@@ -22,8 +22,8 @@
     "test": "eslint-find-rules --deprecated --unused test.js --no-error --no-core"
   },
   "devDependencies": {
-    "@koffeine/eslint-config": "15.0.1",
-    "eslint": "7.5.0",
+    "@koffeine/eslint-config": "15.0.2",
+    "eslint": "7.6.0",
     "eslint-find-rules": "3.6.0",
     "eslint-plugin-vue": "6.2.2"
   },
