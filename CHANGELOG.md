@@ -10,6 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 
+- Updated eslint-plugin-vue to 7.9.0, many rules have changed
 - Explicitly turned off unused rules
 - Updated devDependencies
 - Updated project files

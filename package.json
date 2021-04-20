@@ -22,12 +22,12 @@
     "test": "eslint index.js && eslint-find-rules --deprecated --unused --no-core test.js"
   },
   "devDependencies": {
-    "@koffeine/eslint-config": "16.0.2",
-    "eslint": "7.10.0",
+    "@koffeine/eslint-config": "19.1.0",
+    "eslint": "7.24.0",
     "eslint-find-rules": "3.6.1",
-    "eslint-plugin-vue": "6.2.2"
+    "eslint-plugin-vue": "7.9.0"
   },
   "peerDependencies": {
-    "eslint-plugin-vue": "6.2.2"
+    "eslint-plugin-vue": "7.9.0"
   }
 }
