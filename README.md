@@ -4,7 +4,7 @@
 [![devDependencies Status](https://david-dm.org/koffeine/eslint-config-vue/dev-status.svg)](https://david-dm.org/koffeine/eslint-config-vue?type=dev)
 [![peerDependencies Status](https://david-dm.org/koffeine/eslint-config-vue/peer-status.svg)](https://david-dm.org/koffeine/eslint-config-vue?type=peer)
 
-Koffeine's ESLint shareable config for Vue.js
+Koffeine's ESLint shareable config for Vue.js 3
 
 ## Installation
 
