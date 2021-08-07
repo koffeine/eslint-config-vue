@@ -8,6 +8,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+
+## [9.0.0] - 2021-08-07
+
 ### Changed
 
 - Updated eslint-plugin-vue to 7.15.1
