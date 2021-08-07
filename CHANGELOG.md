@@ -10,8 +10,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 
-- Updated README.md with note about this plugin is for version 3 only
+- Updated eslint-plugin-vue to 7.15.1
 - Updated devDependencies
+- Updated README.md with note about this plugin is for version 3 only
 
 
 ## [8.0.0] - 2021-04-20
