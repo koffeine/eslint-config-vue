@@ -195,6 +195,7 @@ module.exports = {
 		'vue/no-v-for-template-key-on-child': 'error',
 		'vue/no-v-html': 'error',
 		'vue/no-v-model-argument': 'off', // Vue 2
+		'vue/no-v-text': 'error',
 		'vue/no-watch-after-await': 'error',
 		'vue/object-curly-newline': 'off',
 		'vue/object-curly-spacing': [ 'error', 'always', { 'arraysInObjects': true, 'objectsInObjects': true } ],
@@ -285,6 +286,7 @@ module.exports = {
 		'vue/valid-v-html': 'error',
 		'vue/valid-v-if': 'error',
 		'vue/valid-v-is': 'error',
+		'vue/valid-v-memo': 'error',
 		'vue/valid-v-model': 'error',
 		'vue/valid-v-on': 'error',
 		'vue/valid-v-once': 'error',
