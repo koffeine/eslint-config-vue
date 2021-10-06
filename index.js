@@ -50,6 +50,7 @@ module.exports = {
 		'vue/comma-spacing': [ 'error', { 'before': false, 'after': true } ],
 		'vue/comma-style': [ 'error', 'last' ],
 		'vue/comment-directive': [ 'error', { 'reportUnusedDisableDirectives': true } ],
+		'vue/component-api-style': [ 'error', [ 'script-setup' ] ],
 		'vue/component-definition-name-casing': [ 'error', 'PascalCase' ],
 		'vue/component-name-in-template-casing': [ 'error', 'PascalCase', { 'registeredComponentsOnly': false } ],
 		'vue/component-tags-order': [ 'error', { 'order': [ 'script', 'template', 'style' ] } ],
@@ -163,6 +164,7 @@ module.exports = {
 		'vue/no-reserved-keys': 'error',
 		'vue/no-restricted-block': 'off',
 		'vue/no-restricted-call-after-await': 'off',
+		'vue/no-restricted-class': 'off',
 		'vue/no-restricted-component-options': 'off',
 		'vue/no-restricted-custom-event': 'off',
 		'vue/no-restricted-props': 'off',
@@ -190,6 +192,7 @@ module.exports = {
 		'vue/no-use-v-if-with-v-for': [ 'error', { 'allowUsingIterationVar': false } ],
 		'vue/no-useless-concat': 'error',
 		'vue/no-useless-mustaches': [ 'error', { 'ignoreIncludesComment': false, 'ignoreStringEscape': false } ],
+		'vue/no-useless-template-attributes': 'error',
 		'vue/no-useless-v-bind': 'error',
 		'vue/no-v-for-template-key': 'off', // Vue 2
 		'vue/no-v-for-template-key-on-child': 'error',
