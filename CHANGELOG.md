@@ -11,6 +11,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 
 - Updated .editorconfig
+- Changed js files to strict mode
 - Updated devDependencies
 
 

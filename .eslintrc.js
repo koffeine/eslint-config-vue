@@ -1,3 +1,5 @@
+'use strict';
+
 module.exports = {
 	root: true,
 	extends: '@koffeine',
@@ -10,7 +12,6 @@ module.exports = {
 		node: true
 	},
 	rules: {
-		'quote-props': 'off',
-		'strict': 'off'
+		'quote-props': 'off'
 	}
 };

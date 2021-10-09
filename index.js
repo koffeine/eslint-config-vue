@@ -1,3 +1,5 @@
+'use strict';
+
 module.exports = {
 	rules: {
 		'vue/array-bracket-newline': 'off',
