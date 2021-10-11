@@ -2,6 +2,6 @@
 
 module.exports = {
 	root: true,
-	extends: './index.js',
+	extends: './src/index.js',
 	plugins: [ 'vue' ]
 };
