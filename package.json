@@ -19,7 +19,7 @@
     "url": "git+https://github.com/koffeine/eslint-config-vue.git"
   },
   "scripts": {
-    "test": "eslint src && eslint-find-rules --deprecated --unused --no-core test.js"
+    "test": "eslint src && eslint-find-rules --deprecated --unused --no-core test/index.js"
   },
   "devDependencies": {
     "@koffeine/eslint-config": "21.0.0",
