@@ -1,4 +1,7 @@
-# eslint-config-vue
+<h1>
+	eslint-config-vue
+	<a href="https://www.npmjs.com/package/@koffeine/eslint-config-vue"><img alt="npm" src="https://img.shields.io/npm/v/@koffeine/eslint-config-vue"></a>
+</h1>
 
 Koffeine's ESLint shareable config for Vue.js 3
 
