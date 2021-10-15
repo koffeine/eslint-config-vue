@@ -12,8 +12,10 @@
   },
   "license": "MIT",
   "author": "Kornél Horváth <kornel.horvath@me.com>",
-  "files": [],
-  "main": "src/index.js",
+  "files": [
+    "src"
+  ],
+  "exports": "./src/index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/koffeine/eslint-config-vue.git"
