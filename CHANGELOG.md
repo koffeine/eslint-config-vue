@@ -8,6 +8,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Changed
+
+- Enabled vue/array-bracket-newline rule with `'consistent'`
+- Updated vue/brace-style rule with `'1tbs', { allowSingleLine: false }`
+- Updated vue/comma-dangle rule with `'only-multiline'`
+- Updated vue/no-extra-parens rule with `'all', { conditionalAssign: false, returnAssign: true, nestedBinaryExpressions: false, ignoreJSX: 'none', enforceForArrowConditionals: true, enforceForSequenceExpressions: true, enforceForNewInMemberExpressions: false, enforceForFunctionPrototypeMethods: false }`
+- Updated vue/no-irregular-whitespace rule with `{ skipStrings: false, skipComments: false, skipRegExps: false, skipTemplates: false }`
+- Enabled object-curly-newline rule with `{ consistent: true }`
+
 
 ## [11.0.0] - 2021-10-06
 

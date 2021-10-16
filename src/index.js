@@ -327,13 +327,13 @@ module.exports = {
 
 		// EXTENSION RULES
 
-		'vue/array-bracket-newline': 'off',
+		'vue/array-bracket-newline': [ 'error', 'consistent' ],
 		'vue/array-bracket-spacing': [ 'error', 'always', { singleValue: true, objectsInArrays: true, arraysInArrays: true } ],
 		'vue/arrow-spacing': [ 'error', { before: true, after: true } ],
 		'vue/block-spacing': [ 'error', 'always' ],
-		'vue/brace-style': [ 'error', '1tbs', { allowSingleLine: true } ],
+		'vue/brace-style': [ 'error', '1tbs', { allowSingleLine: false } ],
 		'vue/camelcase': [ 'error', { properties: 'always', ignoreDestructuring: false, ignoreImports: false, ignoreGlobals: false } ],
-		'vue/comma-dangle': [ 'error', 'never' ],
+		'vue/comma-dangle': [ 'error', 'only-multiline' ],
 		'vue/comma-spacing': [ 'error', { before: false, after: true } ],
 		'vue/comma-style': [ 'error', 'last' ],
 		'vue/dot-location': [ 'error', 'property' ],
@@ -349,7 +349,7 @@ module.exports = {
 			'error',
 			'all',
 			{
-				conditionalAssign: true,
+				conditionalAssign: false,
 				returnAssign: true,
 				nestedBinaryExpressions: false,
 				ignoreJSX: 'none',
@@ -359,11 +359,11 @@ module.exports = {
 				enforceForFunctionPrototypeMethods: false
 			}
 		],
-		'vue/no-irregular-whitespace': [ 'error', { skipStrings: true, skipComments: true, skipRegExps: true, skipTemplates: true } ],
+		'vue/no-irregular-whitespace': [ 'error', { skipStrings: false, skipComments: false, skipRegExps: false, skipTemplates: false } ],
 		'vue/no-restricted-syntax': 'off',
 		'vue/no-sparse-arrays': 'error',
 		'vue/no-useless-concat': 'error',
-		'vue/object-curly-newline': 'off',
+		'vue/object-curly-newline': [ 'error', { consistent: true } ],
 		'vue/object-curly-spacing': [ 'error', 'always', { arraysInObjects: true, objectsInObjects: true } ],
 		'vue/object-property-newline': 'off',
 		'vue/operator-linebreak': [ 'error', 'before' ],

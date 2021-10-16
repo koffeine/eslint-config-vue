@@ -14,7 +14,7 @@ const processRules = (rules, prefix = '') => {
 	}
 };
 
-const test = async() => {
+const test = async () => {
 	processRules(new Linter().getRules().entries());
 
 	const { plugins, rules } = await new ESLint({ useEslintrc: false, overrideConfigFile: configFile })
