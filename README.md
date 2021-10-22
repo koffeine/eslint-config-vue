@@ -35,9 +35,9 @@ Add the following to your .eslintrc.js file:
 
 ```js
 module.exports = {
-	extends: '@koffeine/eslint-config-vue',
-	plugins: [ 'vue' ],
-	parser: 'vue-eslint-parser'
+    extends: '@koffeine/eslint-config-vue',
+    plugins: [ 'vue' ],
+    parser: 'vue-eslint-parser'
 };
 ```
 
