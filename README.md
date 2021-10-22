@@ -26,7 +26,7 @@ npm info @koffeine/eslint-config-vue peerDependencies
 For example:
 
 ```sh
-npm install eslint-plugin-vue@7.19.1 --save-dev --save-exact
+npm install eslint-plugin-vue@7.20.0 --save-dev --save-exact
 ```
 
 ## Usage

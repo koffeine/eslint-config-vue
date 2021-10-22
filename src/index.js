@@ -10,8 +10,10 @@ module.exports = {
 
 		// ESSENTIAL
 
+		'vue/multi-word-component-names': 'off',
 		'vue/no-arrow-functions-in-watch': 'error',
 		'vue/no-async-in-computed-properties': 'error',
+		'vue/no-computed-properties-in-data': 'error',
 		'vue/no-deprecated-data-object-declaration': 'error',
 		'vue/no-deprecated-destroyed-lifecycle': 'error',
 		'vue/no-deprecated-dollar-listeners-api': 'error',
@@ -22,6 +24,7 @@ module.exports = {
 		'vue/no-deprecated-html-element-is': 'error',
 		'vue/no-deprecated-inline-template': 'error',
 		'vue/no-deprecated-props-default-this': 'error',
+		'vue/no-deprecated-router-link-tag-prop': 'error',
 		'vue/no-deprecated-scope-attribute': 'error',
 		'vue/no-deprecated-slot-attribute': 'error',
 		'vue/no-deprecated-slot-scope-attribute': 'error',
@@ -300,6 +303,7 @@ module.exports = {
 		'vue/no-static-inline-styles': [ 'warn', { allowBinding: false } ],
 		'vue/no-template-target-blank': 'off',
 		'vue/no-this-in-before-route-enter': 'off',
+		'vue/no-undef-properties': 'error',
 		'vue/no-unregistered-components': 'off',
 		'vue/no-unsupported-features': [ 'error', { version: '^3.0.0' } ],
 		'vue/no-unused-properties': 'off',

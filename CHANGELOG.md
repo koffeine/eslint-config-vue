@@ -8,6 +8,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Changed
+
+- Updated eslint-plugin-vue to 7.20.0
+- Enabled vue/no-computed-properties-in-data rule
+- Enabled vue/no-deprecated-router-link-tag-prop rule
+- Enabled vue/no-undef-properties rule
+
 
 ## [12.0.0] - 2021-10-16
 

@@ -26,9 +26,9 @@
   "devDependencies": {
     "@koffeine/eslint-config": "23.3.0",
     "eslint": "8.0.1",
-    "eslint-plugin-vue": "7.19.1"
+    "eslint-plugin-vue": "7.20.0"
   },
   "peerDependencies": {
-    "eslint-plugin-vue": "7.19.1"
+    "eslint-plugin-vue": "7.20.0"
   }
 }
